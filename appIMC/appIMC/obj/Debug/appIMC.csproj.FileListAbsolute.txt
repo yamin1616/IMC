@@ -1,0 +1,9 @@
+c:\users\edgar\documents\visual studio 2013\Projects\appIMC\appIMC\bin\Debug\appIMC.exe.config
+c:\users\edgar\documents\visual studio 2013\Projects\appIMC\appIMC\bin\Debug\appIMC.exe
+c:\users\edgar\documents\visual studio 2013\Projects\appIMC\appIMC\bin\Debug\appIMC.pdb
+c:\users\edgar\documents\visual studio 2013\Projects\appIMC\appIMC\obj\Debug\appIMC.csprojResolveAssemblyReference.cache
+c:\users\edgar\documents\visual studio 2013\Projects\appIMC\appIMC\obj\Debug\appIMC.Form1.resources
+c:\users\edgar\documents\visual studio 2013\Projects\appIMC\appIMC\obj\Debug\appIMC.Properties.Resources.resources
+c:\users\edgar\documents\visual studio 2013\Projects\appIMC\appIMC\obj\Debug\appIMC.csproj.GenerateResource.Cache
+c:\users\edgar\documents\visual studio 2013\Projects\appIMC\appIMC\obj\Debug\appIMC.exe
+c:\users\edgar\documents\visual studio 2013\Projects\appIMC\appIMC\obj\Debug\appIMC.pdb
